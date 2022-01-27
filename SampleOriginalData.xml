@@ -1,0 +1,3117 @@
+<?xml version="1.0"?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st January 2006//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/pubmed_060101.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+
+        <DateCreated>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2002</Year>
+            <Month>10</Month>
+            <Day>04</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-9262</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>152</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2000</Year>
+                        <Month>Jul</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of epidemiology. </Title>
+                <ISOAbbreviation>Am. J. Epidemiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>John Snow and modern-day environmental epidemiology.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1-3</MedlinePgn>
+            </Pagination>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Sandler</LastName>
+                    <ForeName>D P</ForeName>
+                    <Initials>DP</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Comment</PublicationType>
+                <PublicationType>Editorial</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Am J Epidemiol</MedlineTA>
+            <NlmUniqueID>7910653</NlmUniqueID>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CitationSubset>J</CitationSubset>
+        <CommentsCorrections>
+            <CommentOn>
+                <RefSource>Am J Epidemiol. 2000 Jul 1;152(1):10-2</RefSource>
+
+            </CommentOn>
+            <CommentOn>
+                <RefSource>Am J Epidemiol. 2000 Jul 1;152(1):4-9</RefSource>
+
+            </CommentOn>
+        </CommentsCorrections>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Epidemiology</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <OtherID Source="PIP">151458</OtherID>
+        <OtherID Source="POP">00296807</OtherID>
+        <OtherAbstract Type="PIP">
+            <AbstractText>In an issue of the American Journal of Epidemiology highlighting the challenges of studying disease risks associated with low-dose environmental exposures, author John Snow was described giving an expert-witness testimony on behalf of industry.  It is noted that emanations from the bone-boiling factories were not causing ill health in the community at large.  This statement invoked arguments that are often raised when unexpected health effects are encountered following supposed low-dose exposures.  In addition to this historical report of John Snow, the issue of the Journal features articles that illustrate various aspects of the difficulties faced in studying health effects of environmental exposures.  Several of these issues include innovative attempts to improve the quality of such research.  Moreover, these articles demonstrate that technological advances are making possible a wide range of innovative study designs and strategies to better assess both exposures and outcomes.</AbstractText>
+        </OtherAbstract>
+        <KeywordList Owner="PIP">
+            <Keyword MajorTopicYN="N">Biology</Keyword>
+            <Keyword MajorTopicYN="Y">Critique</Keyword>
+            <Keyword MajorTopicYN="N">Economic Factors</Keyword>
+            <Keyword MajorTopicYN="N">Environment</Keyword>
+            <Keyword MajorTopicYN="N">Environmental Degradation</Keyword>
+            <Keyword MajorTopicYN="Y">Environmental Pollution</Keyword>
+            <Keyword MajorTopicYN="Y">Epidemiology</Keyword>
+            <Keyword MajorTopicYN="N">Health</Keyword>
+            <Keyword MajorTopicYN="N">Public Health</Keyword>
+            <Keyword MajorTopicYN="Y">Research And Development</Keyword>
+            <Keyword MajorTopicYN="Y">Risk Factors</Keyword>
+            <Keyword MajorTopicYN="N">Technology</Keyword>
+        </KeywordList>
+        <GeneralNote Owner="PIP">TJ: AMERICAN JOURNAL OF EPIDEMIOLOGY.</GeneralNote>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2000</Year>
+                <Month>7</Month>
+                <Day>20</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2000</Year>
+                <Month>8</Month>
+                <Day>12</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+
+
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+
+        <DateCreated>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-9262</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>152</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2000</Year>
+                        <Month>Jul</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of epidemiology. </Title>
+                <ISOAbbreviation>Am. J. Epidemiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>John Snow: the first hired gun?</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>4-9</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The 1854 English cholera outbreak led to reform of Victorian public health legislation, including the Nuisances Removal and Diseases Prevention Act. The reforms threatened the closure of many factories whose fumes were considered hazardous to the public's health. The second witness to appear before the Parliamentary committee considering the reforms was Dr. John Snow. Snow testified on behalf of the manufacturers threatened by the reforms. He stated that the fumes from such establishments were not hazardous. He contended that the workers in these factories did not become ill as a result of their exposures, and therefore these fumes could not be a hazard to the general public's health. Snow also presented data from the 1854 cholera outbreak as the basis for his belief that epidemic diseases were transmitted by water, not air. Although the data concerned cholera, Snow extended the inference to all epidemic diseases. When the committee's report was published, The Lancet chastised Snow in a stinging editorial. Parliament subsequently revised the bill in favor of the manufacturers and passed it into law. The implications of this particular episode in the history of epidemiology are discussed.</AbstractText>
+            </Abstract>
+            <Affiliation>Bristol-Myers Squibb, Pennington, NJ 08534, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Lilienfeld</LastName>
+                    <ForeName>D E</ForeName>
+                    <Initials>DE</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Biography</PublicationType>
+                <PublicationType>Historical Article</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Am J Epidemiol</MedlineTA>
+            <NlmUniqueID>7910653</NlmUniqueID>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CitationSubset>J</CitationSubset>
+        <CitationSubset>Q</CitationSubset>
+        <CommentsCorrections>
+            <CommentIn>
+                <RefSource>Am J Epidemiol. 2000 Jul 1;152(1):1-3</RefSource>
+
+            </CommentIn>
+            <CommentIn>
+                <RefSource>Am J Epidemiol. 2000 Jul 1;152(1):10-2</RefSource>
+
+            </CommentIn>
+        </CommentsCorrections>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cholera</DescriptorName>
+                <QualifierName MajorTopicYN="N">epidemiology</QualifierName>
+                <QualifierName MajorTopicYN="N">history</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Disease Outbreaks</DescriptorName>
+                <QualifierName MajorTopicYN="N">history</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Disease Transmission</DescriptorName>
+                <QualifierName MajorTopicYN="N">history</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">England</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Epidemiology</DescriptorName>
+                <QualifierName MajorTopicYN="Y">history</QualifierName>
+                <QualifierName MajorTopicYN="N">legislation &amp; jurisprudence</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">History, 19th Century</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Industry</DescriptorName>
+                <QualifierName MajorTopicYN="N">history</QualifierName>
+                <QualifierName MajorTopicYN="N">legislation &amp; jurisprudence</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Periodicals</DescriptorName>
+                <QualifierName MajorTopicYN="N">history</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Public Health</DescriptorName>
+                <QualifierName MajorTopicYN="Y">history</QualifierName>
+                <QualifierName MajorTopicYN="N">legislation &amp; jurisprudence</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <PersonalNameSubjectList>
+            <PersonalNameSubject>
+                <LastName>Snow</LastName>
+                <ForeName>J</ForeName>
+                <Initials>J</Initials>
+            </PersonalNameSubject>
+        </PersonalNameSubjectList>
+        <OtherID Source="PIP">151459</OtherID>
+        <OtherID Source="POP">00296808</OtherID>
+        <KeywordList Owner="PIP">
+            <Keyword MajorTopicYN="N">Bacterial And Fungal Diseases</Keyword>
+            <Keyword MajorTopicYN="Y">Cholera</Keyword>
+            <Keyword MajorTopicYN="N">Developed Countries</Keyword>
+            <Keyword MajorTopicYN="N">Diseases</Keyword>
+            <Keyword MajorTopicYN="N">England</Keyword>
+            <Keyword MajorTopicYN="Y">Epidemiology</Keyword>
+            <Keyword MajorTopicYN="N">Europe</Keyword>
+            <Keyword MajorTopicYN="N">Health</Keyword>
+            <Keyword MajorTopicYN="Y">Historical Survey</Keyword>
+            <Keyword MajorTopicYN="N">Infections</Keyword>
+            <Keyword MajorTopicYN="Y">Legislation</Keyword>
+            <Keyword MajorTopicYN="N">Northern Europe</Keyword>
+            <Keyword MajorTopicYN="Y">Public Health</Keyword>
+            <Keyword MajorTopicYN="N">United Kingdom</Keyword>
+        </KeywordList>
+        <GeneralNote Owner="PIP">TJ: AMERICAN JOURNAL OF EPIDEMIOLOGY.</GeneralNote>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2000</Year>
+                <Month>7</Month>
+                <Day>20</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2000</Year>
+                <Month>8</Month>
+                <Day>12</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+
+
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+
+        <DateCreated>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-9262</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>152</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2000</Year>
+                        <Month>Jul</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of epidemiology. </Title>
+                <ISOAbbreviation>Am. J. Epidemiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Invited commentary: the testimony of Dr. Snow.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>10-2</MedlinePgn>
+            </Pagination>
+            <Affiliation>Department of Clinical Epidemiology, Leiden University Hospital Medical Centre, The Netherlands. vdbroucke@mail.medfac.leidenuniv.nl</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Vandenbroucke</LastName>
+                    <ForeName>J P</ForeName>
+                    <Initials>JP</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Biography</PublicationType>
+                <PublicationType>Comment</PublicationType>
+                <PublicationType>Historical Article</PublicationType>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Am J Epidemiol</MedlineTA>
+            <NlmUniqueID>7910653</NlmUniqueID>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <CitationSubset>J</CitationSubset>
+        <CitationSubset>Q</CitationSubset>
+        <CommentsCorrections>
+            <CommentOn>
+                <RefSource>Am J Epidemiol. 2000 Jul 1;152(1):4-9</RefSource>
+
+            </CommentOn>
+            <CommentIn>
+                <RefSource>Am J Epidemiol. 2000 Jul 1;152(1):1-3</RefSource>
+
+            </CommentIn>
+        </CommentsCorrections>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Disease Transmission</DescriptorName>
+                <QualifierName MajorTopicYN="N">history</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">England</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Epidemiology</DescriptorName>
+                <QualifierName MajorTopicYN="Y">history</QualifierName>
+                <QualifierName MajorTopicYN="N">legislation &amp; jurisprudence</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">History, 19th Century</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Industry</DescriptorName>
+                <QualifierName MajorTopicYN="N">history</QualifierName>
+                <QualifierName MajorTopicYN="N">legislation &amp; jurisprudence</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Periodicals</DescriptorName>
+                <QualifierName MajorTopicYN="N">history</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <PersonalNameSubjectList>
+            <PersonalNameSubject>
+                <LastName>Snow</LastName>
+                <ForeName>J</ForeName>
+                <Initials>J</Initials>
+            </PersonalNameSubject>
+        </PersonalNameSubjectList>
+        <OtherID Source="PIP">151460</OtherID>
+        <OtherID Source="POP">00296809</OtherID>
+        <OtherAbstract Type="PIP">
+            <AbstractText>This paper presents a commentary on the testimony delivered by Dr. John Snow before the British Parliamentary Committee in 1855.  It is noted that in Snow's testimony was highlighted his extremely strong belief in germ theory and contagion and his consequent contempt for anything close to the rivaling theory that miasmatic emanations cause disease.  Snow's unreasonableness may have been because he already held his germ theory and drinking water convictions before he made his observations.  In addition, based on his published books it has become apparent that even his data analysis was guided by such preconceptions.  Although Snow's opinion on germ theory created contemporaries, it is noted however, that Snow did not truly sway contemporary opinion, and his theories were not agreed as a complete breakthrough in the way that they are often presented as being in epidemiological textbooks.  Overall, the fundamental problem with the miasma and contagion theories at the time was that both failed to answer certain questions, including transmission of diseases, development of diseases, and the issue of temporary carriers of causative germs.</AbstractText>
+        </OtherAbstract>
+        <KeywordList Owner="PIP">
+            <Keyword MajorTopicYN="N">Bacterial And Fungal Diseases</Keyword>
+            <Keyword MajorTopicYN="Y">Beliefs</Keyword>
+            <Keyword MajorTopicYN="Y">Cholera--transmission</Keyword>
+            <Keyword MajorTopicYN="N">Communication</Keyword>
+            <Keyword MajorTopicYN="Y">Critique</Keyword>
+            <Keyword MajorTopicYN="N">Culture</Keyword>
+            <Keyword MajorTopicYN="N">Diseases</Keyword>
+            <Keyword MajorTopicYN="N">Infections</Keyword>
+            <Keyword MajorTopicYN="Y">Influentials--men</Keyword>
+            <Keyword MajorTopicYN="N">Knowledge Sources</Keyword>
+            <Keyword MajorTopicYN="Y">Men</Keyword>
+        </KeywordList>
+        <GeneralNote Owner="PIP">TJ: AMERICAN JOURNAL OF EPIDEMIOLOGY.</GeneralNote>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2000</Year>
+                <Month>7</Month>
+                <Day>20</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2000</Year>
+                <Month>8</Month>
+                <Day>12</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+
+
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+
+        <DateCreated>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-9262</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>152</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2000</Year>
+                        <Month>Jul</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of epidemiology. </Title>
+                <ISOAbbreviation>Am. J. Epidemiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Soft-tissue sarcoma and non-Hodgkin's lymphoma clusters around a municipal solid waste incinerator with high dioxin emission levels.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>13-9</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Overall evidence from epidemiologic studies in the workplace suggests that dioxin is a human carcinogen, but whether low doses affect the general population remains to be determined. The authors examined the spatial distribution of soft-tissue sarcomas and non-Hodgkin's lymphomas around a French municipal solid waste incinerator with high emission levels of dioxin (16.3 ng international toxic equivalency factor/m3). Not consistently associated with dioxin exposure,-Hodgkin's disease served as the control cancer category. Clusters were identified from 1980 to 1995 in the area ("departement') of Doubs by applying a spatial scan statistic to 26 electoral wards. The most likely and highly significant clusters found were identical for soft-tissue sarcomas and non-Hodgkin's lymphomas and included the area around the municipal solid waste incinerator; standardized incidence ratios were 1.44 (observed number of cases = 45, focused test p value = 0.004) and 1.27 (observed number of cases = 286, focused test p value = 0.00003), respectively. Conversely, Hodgkin's disease exhibited no specific spatial distribution. Confounding by socioeconomic status, urbanization, or patterns of medical referral seemed unlikely to explain the clusters. Although consistent, these findings should be confirmed by further investigation (e.g., a case-control study in which dioxins are measured in biologic tissues) before clusters of soft-tissue sarcoma and non-Hodgkin's lymphoma are ascribed to dioxin released by the municipal solid waste incinerator.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Public Health, Faculty of Medicine, Besancon, France. jean-francois.viel@ufc-chu.univ-fcomte.fr</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Viel</LastName>
+                    <ForeName>J F</ForeName>
+                    <Initials>JF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Arveux</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Baverel</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cahn</LastName>
+                    <ForeName>J Y</ForeName>
+                    <Initials>JY</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Am J Epidemiol</MedlineTA>
+            <NlmUniqueID>7910653</NlmUniqueID>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Dioxins</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Dioxins</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">France</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hodgkin Disease</DescriptorName>
+                <QualifierName MajorTopicYN="N">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lymphoma, Non-Hodgkin</DescriptorName>
+                <QualifierName MajorTopicYN="Y">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Refuse Disposal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Research Support, Non-U.S. Gov't</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sarcoma</DescriptorName>
+                <QualifierName MajorTopicYN="Y">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Soft Tissue Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Space-Time Clustering</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2000</Year>
+                <Month>7</Month>
+                <Day>20</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2000</Year>
+                <Month>8</Month>
+                <Day>12</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+
+
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+
+        <DateCreated>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-9262</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>152</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2000</Year>
+                        <Month>Jul</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of epidemiology. </Title>
+                <ISOAbbreviation>Am. J. Epidemiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Extremely low-frequency magnetic fields and childhood acute lymphoblastic leukemia: an exploratory analysis of alternative exposure metrics.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>20-31</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Data collected by the National Cancer Institute-Children's Cancer Group were utilized to explore various metrics of magnetic field levels and risk of acute lymphoblastic leukemia (ALL) in children. Cases were aged 0-14 years, were diagnosed with ALL during 1989-1993, were registered with the Children's Cancer Group, and resided in one home for at least 70 percent of the 5 years immediately prior to diagnosis. Controls were identified by using random digit dialing and met the same residential requirements. With 30-second ("spot") measurements and components of the 24-hour measurement obtained in the subject's bedroom, metrics evaluated included measures of central tendency, peak exposures, threshold values, and measures of short-term temporal variability. Measures of central tendency and the threshold measures showed good-to-high correlation, but these metrics correlated less well with the others. Small increases in risk (ranging from 1.02 to 1.69 for subjects in the highest exposure category) were associated with some measures of central tendency, but peak exposures, threshold values, measures of short-term variability, and spot measurements demonstrated little association with risk of childhood ALL. In general, risk estimates were slightly higher for the nighttime (10 p.m.-6 a.m.) interval than for the corresponding 24-hour period.</AbstractText>
+            </Abstract>
+            <Affiliation>National Cancer Institute, Division of Cancer Epidemiology and Genetics, Bethesda, MD 20892-7238, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Auvinen</LastName>
+                    <ForeName>A</ForeName>
+                    <Initials>A</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Linet</LastName>
+                    <ForeName>M S</ForeName>
+                    <Initials>MS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hatch</LastName>
+                    <ForeName>E E</ForeName>
+                    <Initials>EE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kleinerman</LastName>
+                    <ForeName>R A</ForeName>
+                    <Initials>RA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Robison</LastName>
+                    <ForeName>L L</ForeName>
+                    <Initials>LL</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kaune</LastName>
+                    <ForeName>W T</ForeName>
+                    <Initials>WT</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Misakian</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Niwa</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wacholder</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tarone</LastName>
+                    <ForeName>R E</ForeName>
+                    <Initials>RE</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Am J Epidemiol</MedlineTA>
+            <NlmUniqueID>7910653</NlmUniqueID>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Child</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Child, Preschool</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Electromagnetic Fields</DescriptorName>
+                <QualifierName MajorTopicYN="N">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Environmental Exposure</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Infant</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Leukemia, Lymphocytic, Acute</DescriptorName>
+                <QualifierName MajorTopicYN="Y">epidemiology</QualifierName>
+                <QualifierName MajorTopicYN="N">etiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2000</Year>
+                <Month>7</Month>
+                <Day>20</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2000</Year>
+                <Month>8</Month>
+                <Day>12</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+
+
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+
+        <DateCreated>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-9262</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>152</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2000</Year>
+                        <Month>Jul</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of epidemiology. </Title>
+                <ISOAbbreviation>Am. J. Epidemiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Occupational exposure and lung cancer risk: a population-based case-referent study in Sweden.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>32-40</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>This case-referent study investigated the lung cancer risk from occupational exposure to diesel exhaust, mixed motor exhaust, other combustion products, asbestos, metals, oil mist, and welding fumes. All cases of lung cancer in males aged 40-75 years among stable residents of Stockholm County, Sweden, were identified from 1985 to 1990. Referents were selected as a stratified (age, inclusion year) random sample. Information on lifetime occupational history, residency, and tobacco smoking was obtained from the study subjects or from next of kin. Response rates of 87% and 85% resulted in 1,042 cases and 2,364 referents, respectively. Occupational exposures were assessed by an occupational hygienist who coded the intensity and probability of each exposure. Risk estimates were adjusted for tobacco smoking, other occupational exposures, residential radon, and environmental exposure to traffic-related air pollution. For the highest quartile of cumulative exposure versus no exposure, the relative risk was 1.63 (95% confidence interval (CI): 1.14, 2.33) for diesel exhaust, 1.60 (95% CI: 1.09, 2.34) for combustion products, and 1.68 (95% CI: 1.15, 2.46) for asbestos. Dose-response analyses indicated an increase in lung cancer risk of 14% per fiber-year/ml for asbestos exposure. No increased risk was found for the other exposure factors. An overall attributable proportion of 9.5% (95% CI: 5.5, 13.9) was estimated for lung cancer related to diesel exhaust, other combustion products, and asbestos.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Occupational Health, Stockholm County Council, Sweden. per.gustavsson@smd.sll.se</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Gustavsson</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jakobsson</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nyberg</LastName>
+                    <ForeName>F</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pershagen</LastName>
+                    <ForeName>G</ForeName>
+                    <Initials>G</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jarup</LastName>
+                    <ForeName>L</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Scheele</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Am J Epidemiol</MedlineTA>
+            <NlmUniqueID>7910653</NlmUniqueID>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lung Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y">epidemiology</QualifierName>
+                <QualifierName MajorTopicYN="N">etiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Occupational Diseases</DescriptorName>
+                <QualifierName MajorTopicYN="Y">epidemiology</QualifierName>
+                <QualifierName MajorTopicYN="N">etiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Occupational Exposure</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Research Support, Non-U.S. Gov't</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Risk</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Risk Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sweden</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2000</Year>
+                <Month>7</Month>
+                <Day>20</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2000</Year>
+                <Month>8</Month>
+                <Day>12</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+
+
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+
+        <DateCreated>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-9262</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>152</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2000</Year>
+                        <Month>Jul</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of epidemiology. </Title>
+                <ISOAbbreviation>Am. J. Epidemiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Electric blanket use and breast cancer in the Nurses' Health Study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>41-9</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Electric and magnetic fields (EMFs) have been hypothesized to increase the risk of breast cancer, and electric blankets represent an important source of exposure to EMFs. The authors examined the relation between electric blanket use and invasive breast cancer in the Nurses' Health Study. On the biennial questionnaire in 1992, 87,497 women provided information on this exposure during three consecutive time periods. In a prospective analysis with 301,775 person-years of follow-up through 1996 (954 cases), the relative risk for any electric blanket use was not elevated (relative risk (RR) = 1.08, 95% confidence interval (CI): 0.95, 1.24) after controlling for breast cancer risk factors. There was a weak association between breast cancer and electric blanket use at least 16 years before diagnosis and long-term use in age-adjusted analyses but not in multivariate models. In a retrospective analysis of 1,318,683 person-years of follow-up (2,426 cases), the multivariate relative risk associated with use before disease follow-up began was null (RR = 1.05, 95% CI: 0.95, 1.16). Similar results were obtained in analyses stratified by menopause and restricted to estrogen receptor-positive breast cancers. While 95% confidence intervals for these estimates did not exclude small risks, overall, results did not support an association between breast cancer risk and exposure to EMFs from electric blankets.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Medicine, Brigham and Women's Hospital and Harvard Medical School, Boston, MA 02115, USA. francine.laden@channing.harvard.edu</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Laden</LastName>
+                    <ForeName>F</ForeName>
+                    <Initials>F</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Neas</LastName>
+                    <ForeName>L M</ForeName>
+                    <Initials>LM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tolbert</LastName>
+                    <ForeName>P E</ForeName>
+                    <Initials>PE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Holmes</LastName>
+                    <ForeName>M D</ForeName>
+                    <Initials>MD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hankinson</LastName>
+                    <ForeName>S E</ForeName>
+                    <Initials>SE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Spiegelman</LastName>
+                    <ForeName>D</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Speizer</LastName>
+                    <ForeName>F E</ForeName>
+                    <Initials>FE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hunter</LastName>
+                    <ForeName>D J</ForeName>
+                    <Initials>DJ</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>5T32CA09001</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI</Agency>
+                </Grant>
+                <Grant>
+                    <GrantID>CA/ES62984</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI</Agency>
+                </Grant>
+                <Grant>
+                    <GrantID>CA40356</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI</Agency>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Am J Epidemiol</MedlineTA>
+            <NlmUniqueID>7910653</NlmUniqueID>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Bedding and Linens</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Breast Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y">epidemiology</QualifierName>
+                <QualifierName MajorTopicYN="Y">etiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Electricity</DescriptorName>
+                <QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Incidence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Nurses</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Prospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Questionnaires</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Research Support, Non-U.S. Gov't</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Research Support, U.S. Gov't, P.H.S.</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Retrospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Risk Factors</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2000</Year>
+                <Month>7</Month>
+                <Day>20</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2000</Year>
+                <Month>8</Month>
+                <Day>12</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+
+
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+
+        <DateCreated>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-9262</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>152</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2000</Year>
+                        <Month>Jul</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of epidemiology. </Title>
+                <ISOAbbreviation>Am. J. Epidemiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Breast cancer risk associated with congeners of polychlorinated biphenyls.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>50-8</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Experimental studies show that hormonal and nonhormonal activities of polychlorinated biphenyls (PCBs) are structure dependent, suggesting that the breast cancer risk associated with PCBs may vary according to specific PCB congeners. In 1994-1997, the authors conducted a case-control study of Connecticut women to investigate whether breast cancer risk is associated with body burden of PCBs and varies by PCB congeners. A total of 304 breast cancer cases and 186 controls aged 40-79 years were recruited into the study. Fresh breast adipose tissue was analyzed for PCBs. The age- and lipid-adjusted geometric mean tissue levels of total PCBs were not significantly different (p = 0.46) for the cases (478.6 parts per billion) and controls (494.1 parts per billion). The covariate-adjusted odds ratio was 0.7 (95% confidence interval: 0.4, 1.1) for all study participants when the third tertile was compared with the lowest tertile. No individual congeners or groups of congeners were associated with a significantly increased risk of breast cancer. Further stratification by type of breast disease; menopausal, parity, and lactation status; and body size also showed no significant association with body levels of PCBs. These results suggest that environmental exposure to PCBs may not substantially affect breast cancer risk.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Epidemiology, Yale University School of Public Health, New Haven, CT, USA. tongzhang.zheng@yale.edu</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Zheng</LastName>
+                    <ForeName>T</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Holford</LastName>
+                    <ForeName>T R</ForeName>
+                    <Initials>TR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tessari</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mayne</LastName>
+                    <ForeName>S T</ForeName>
+                    <Initials>ST</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Owens</LastName>
+                    <ForeName>P H</ForeName>
+                    <Initials>PH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ward</LastName>
+                    <ForeName>B</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Carter</LastName>
+                    <ForeName>D</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boyle</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dubrow</LastName>
+                    <ForeName>R</ForeName>
+                    <Initials>R</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Archibeque-Engle</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zahm</LastName>
+                    <ForeName>S H</ForeName>
+                    <Initials>SH</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>CA-62986</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI</Agency>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Am J Epidemiol</MedlineTA>
+            <NlmUniqueID>7910653</NlmUniqueID>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Polychlorinated Biphenyls</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adipose Tissue</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Breast Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+                <QualifierName MajorTopicYN="Y">epidemiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Case-Control Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Polychlorinated Biphenyls</DescriptorName>
+                <QualifierName MajorTopicYN="Y">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Research Support, U.S. Gov't, P.H.S.</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Risk Factors</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2000</Year>
+                <Month>7</Month>
+                <Day>20</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2000</Year>
+                <Month>8</Month>
+                <Day>12</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+
+
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+
+        <DateCreated>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-9262</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>152</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2000</Year>
+                        <Month>Jul</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of epidemiology. </Title>
+                <ISOAbbreviation>Am. J. Epidemiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Relation between aluminum concentrations in drinking water and Alzheimer's disease: an 8-year follow-up study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>59-66</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>To investigate the effect of aluminum and silica in drinking water on the risk of dementia and Alzheimer's disease, the authors analyzed data from a large prospective cohort (Paquid), including 3,777 subjects aged 65 years and over living at home in 75 civil parishes in Gironde and Dordogne in southwestern France in 1988-1989. The subjects were followed for up for 8 years with an active search for incident cases of dementia or Alzheimer's disease. Mean exposure to aluminum and silica in drinking water was estimated in each area. The sample studied included 2,698 nondemented subjects at baseline, for whom components of drinking water and covariates were available. A total of 253 incident cases of dementia (with 17 exposed to high levels of aluminum), including 182 Alzheimer's disease (with 13 exposed to high aluminum levels), were identified. The relative risk of dementia adjusted for age, gender, educational level, place of residence, and wine consumption was 1.99 (95 percent CI: 1.20, 3.28) for subjects exposed to an aluminum concentration greater than 0.1 mg/liter. This result was confirmed for Alzheimer's disease (adjusted relative risk = 2.14, 95 percent CI: 1.21, 3.80). However, no dose-response relation was found. Inversely, the adjusted relative risk of dementia for subjects exposed to silica (&gt; or = 11.25 mg/liter) was 0.74 (95 percent CI: 0.58, 0.96). These findings support the hypothesis that a high concentration of aluminum in drinking water may be a risk factor for Alzheimer's disease.</AbstractText>
+            </Abstract>
+            <Affiliation>INSERM Unite 330, Universite Victor Segalen Bordeaux II, France.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Rondeau</LastName>
+                    <ForeName>V</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Commenges</LastName>
+                    <ForeName>D</ForeName>
+                    <Initials>D</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jacqmin-Gadda</LastName>
+                    <ForeName>H</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dartigues</LastName>
+                    <ForeName>J F</ForeName>
+                    <Initials>JF</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Am J Epidemiol</MedlineTA>
+            <NlmUniqueID>7910653</NlmUniqueID>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>7429-90-5</RegistryNumber>
+                <NameOfSubstance>Aluminum</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7732-18-5</RegistryNumber>
+                <NameOfSubstance>Water</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrections>
+            <CommentIn>
+                <RefSource>Am J Epidemiol. 2001 Aug 1;154(3):288-90</RefSource>
+
+            </CommentIn>
+        </CommentsCorrections>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aluminum</DescriptorName>
+                <QualifierName MajorTopicYN="Y">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Alzheimer Disease</DescriptorName>
+                <QualifierName MajorTopicYN="Y">epidemiology</QualifierName>
+                <QualifierName MajorTopicYN="N">etiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Follow-Up Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Prospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Research Support, Non-U.S. Gov't</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Risk Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Water</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Water Supply</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2000</Year>
+                <Month>7</Month>
+                <Day>20</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2000</Year>
+                <Month>8</Month>
+                <Day>12</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+
+
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+
+        <DateCreated>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-9262</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>152</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2000</Year>
+                        <Month>Jul</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of epidemiology. </Title>
+                <ISOAbbreviation>Am. J. Epidemiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Subject-domain approach to the study of air pollution effects on schoolchildren's illness absence.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>67-74</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>In this paper, the authors propose a new statistical modeling technique, the subject-domain approach, which is theoretically proven to be equivalent to the time-domain approach in detecting an association between exposure and response with time trends. The authors use an empirical data set from a school absence monitoring study conducted during the 1994-1995 school year in Taiwan to demonstrate this subject-domain approach's application to environmental epidemiologic studies. Because the subject-domain models can control the influential personal confounding factors in the models, they show greater statistical power than the traditional time-domain approaches in determining the relation between air pollution and illness absences. The authors' models found that the schoolchildren's risks of illness absence were significantly related to acute exposures to nitrogen dioxide and nitrogen oxides with a 1-day lag (p &lt; 0.01) at levels below the World Health Organization's guidelines. By contrast, the authors could not detect significant associations between air pollution and schoolchildren's absenteeism using time-domain approaches. Such findings imply that the models built on subject domain may be a general solution to the problem of the ecologic fallacy, which is commonly encountered in environmental and social epidemiologic studies.</AbstractText>
+            </Abstract>
+            <Affiliation>Institute of Statistical Sciences, Academia Sinica, Taipei, Taiwan.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Hwang</LastName>
+                    <ForeName>J S</ForeName>
+                    <Initials>JS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chen</LastName>
+                    <ForeName>Y J</ForeName>
+                    <Initials>YJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wang</LastName>
+                    <ForeName>J D</ForeName>
+                    <Initials>JD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lai</LastName>
+                    <ForeName>Y M</ForeName>
+                    <Initials>YM</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yang</LastName>
+                    <ForeName>C Y</ForeName>
+                    <Initials>CY</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chan</LastName>
+                    <ForeName>C C</ForeName>
+                    <Initials>CC</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Am J Epidemiol</MedlineTA>
+            <NlmUniqueID>7910653</NlmUniqueID>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Nitrogen Oxides</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>10102-44-0</RegistryNumber>
+                <NameOfSubstance>Nitrogen Dioxide</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Absenteeism</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Air Pollution</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Child</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Environmental Exposure</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Models, Statistical</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Nitrogen Dioxide</DescriptorName>
+                <QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Nitrogen Oxides</DescriptorName>
+                <QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Research Support, Non-U.S. Gov't</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Respiratory Tract Diseases</DescriptorName>
+                <QualifierName MajorTopicYN="Y">epidemiology</QualifierName>
+                <QualifierName MajorTopicYN="N">etiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Schools</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2000</Year>
+                <Month>7</Month>
+                <Day>20</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2000</Year>
+                <Month>8</Month>
+                <Day>12</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+
+
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+
+        <DateCreated>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-9262</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>152</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2000</Year>
+                        <Month>Jul</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of epidemiology. </Title>
+                <ISOAbbreviation>Am. J. Epidemiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Validity of annoyance scores for estimation of long term air pollution exposure in epidemiologic studies: the Swiss Study on Air Pollution and Lung Diseases in Adults (SAPALDIA).</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>75-83</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>In air pollution epidemiology, estimates of long term exposure are often based on measurements made at one fixed site monitor per area. This may lead to exposure misclassification. The present paper validates a questionnaire-based indicator of ambient air pollution levels and its applicability to assess their within-area variability. Within the framework of the SAPALDIA (Swiss Study on Air Pollution and Lung Diseases in Adults) cross-sectional study (1991), 9,651 participants reported their level of annoyance caused by air pollution on an 11-point scale. This subjective measure was compared with annual mean concentrations of particulate matter less than 10 microm in diameter (PM10) and nitrogen dioxide. The impact of individual factors on reported scores was evaluated. Nitrogen dioxide concentrations at home outdoors (measured in 1993), smoking, workplace dust exposure, and respiratory symptoms were found to be predictors of individual annoyance scores. Regression of population mean annoyance scores against annual mean PM10 and nitrogen dioxide concentrations (measured in 1993 and 1991, respectively) across areas showed a linear relation and strong correlations (r&gt;0.85). Analysis within areas yielded consistent results. The observed associations between subjective and objective air pollution exposure estimates suggest that population mean scores, but not individual scores, may serve as a simple tool for grading air quality within areas. Reported annoyance due to air pollution should be considered an indicator for a complex environmental condition and thus might be used for evaluating the implementation of environmental policies.</AbstractText>
+            </Abstract>
+            <Affiliation>Institute of Social and Preventive Medicine, University of Basel, Switzerland. Lucy.Oglesby@unibas.ch</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Oglesby</LastName>
+                    <ForeName>L</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kunzli</LastName>
+                    <ForeName>N</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Monn</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schindler</LastName>
+                    <ForeName>C</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ackermann-Liebrich</LastName>
+                    <ForeName>U</ForeName>
+                    <Initials>U</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Leuenberger</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Am J Epidemiol</MedlineTA>
+            <NlmUniqueID>7910653</NlmUniqueID>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Air Pollution</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cross-Sectional Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Environmental Exposure</DescriptorName>
+                <QualifierName MajorTopicYN="Y">statistics &amp; numerical data</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Evaluation Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Lung Diseases</DescriptorName>
+                <QualifierName MajorTopicYN="Y">epidemiology</QualifierName>
+                <QualifierName MajorTopicYN="Y">psychology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Questionnaires</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Research Support, Non-U.S. Gov't</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Switzerland</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Time Factors</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2000</Year>
+                <Month>7</Month>
+                <Day>20</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2000</Year>
+                <Month>8</Month>
+                <Day>12</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+
+
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+
+        <DateCreated>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-9262</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>152</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2000</Year>
+                        <Month>Jul</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of epidemiology. </Title>
+                <ISOAbbreviation>Am. J. Epidemiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Measurement of low levels of arsenic exposure: a comparison of water and toenail concentrations.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>84-90</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>A study was conducted to evaluate toenail arsenic concentrations as a biologic marker of drinking water arsenic exposure. Study subjects were controls in a US population-based case-control study of nonmelanoma skin cancer, randomly selected from drivers' license records (those &lt; 65 years of age) and Medicare enrollment files (those &gt; or = 65 years of age). Between 1994 and 1997, a total of 540 controls were interviewed and toenail samples of sufficient weight were collected from 506 (93.7%) of these. Beginning in 1995, a sample of tap water was taken from the participants' homes; a total of 217 (98.6%) water samples were obtained from the 220 subjects interviewed. Arsenic determinations were made from toenail samples using neutron activation analysis. Water samples were analyzed using hydride-generation magnet sector inductively coupled mass spectrometry. Among 208 subjects with both toenail and water measurements, the correlation (r) between water and nail arsenic was 0.65 (p &lt; 0.001) among those with water arsenic concentrations of 1 microg/liter or higher and 0.08 (p = 0.31) among those with concentrations below 1 microg/liter (overall r = 0.46, p &lt; 0.001). Our data suggest that toenail samples provide a useful biologic marker for quantifying low-level arsenic exposure.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Community and Family Medicine, Dartmouth Medical School, Hanover, NH, USA. margaret.karagas@dartmouth.edu</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Karagas</LastName>
+                    <ForeName>M R</ForeName>
+                    <Initials>MR</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tosteson</LastName>
+                    <ForeName>T D</ForeName>
+                    <Initials>TD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Blum</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Klaue</LastName>
+                    <ForeName>B</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Weiss</LastName>
+                    <ForeName>J E</ForeName>
+                    <Initials>JE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stannard</LastName>
+                    <ForeName>V</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Spate</LastName>
+                    <ForeName>V</ForeName>
+                    <Initials>V</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Morris</LastName>
+                    <ForeName>J S</ForeName>
+                    <Initials>JS</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>CA 57494</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI</Agency>
+                </Grant>
+                <Grant>
+                    <GrantID>CA61108</GrantID>
+                    <Acronym>CA</Acronym>
+                    <Agency>NCI</Agency>
+                </Grant>
+                <Grant>
+                    <GrantID>ES-07373</GrantID>
+                    <Acronym>ES</Acronym>
+                    <Agency>NIEHS</Agency>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Am J Epidemiol</MedlineTA>
+            <NlmUniqueID>7910653</NlmUniqueID>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>7440-38-2</RegistryNumber>
+                <NameOfSubstance>Arsenic</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7732-18-5</RegistryNumber>
+                <NameOfSubstance>Water</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Arsenic</DescriptorName>
+                <QualifierName MajorTopicYN="Y">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Case-Control Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Environmental Exposure</DescriptorName>
+                <QualifierName MajorTopicYN="Y">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Nails</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Research Support, U.S. Gov't, P.H.S.</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Toes</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Water</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Water Supply</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2000</Year>
+                <Month>7</Month>
+                <Day>20</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2000</Year>
+                <Month>8</Month>
+                <Day>12</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+
+
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+
+        <DateCreated>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>09</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>09</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-9262</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>152</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2000</Year>
+                        <Month>Jul</Month>
+                        <Day>1</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of epidemiology. </Title>
+                <ISOAbbreviation>Am. J. Epidemiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>External radiation exposure and mortality in a cohort of uranium processing workers.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>91-5</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>In a study of 2,514 White male workers employed between 1942 and 1966 at a US uranium processing plant, mortality was compared with overall US mortality, and the relation between external ionizing radiation and cancer was evaluated. Through 1993, 1,013 deaths occurred. The mean cumulative dose was 47.8 mSv. The standardized mortality ratio (SMR) was 0.90 for all causes of death and 1.05 for all cancers. Many cancer sites had elevated SMRs. Among nonmalignant outcomes, the SMR for chronic nephritis was 1.88 (six deaths observed). An excess relative risk estimate of 10.5 per Sv (10 cases) was observed for kidney cancer; this may have resulted from chance, internal radiation, or chemical exposures not considered.</AbstractText>
+            </Abstract>
+            <Affiliation>Center for Epidemiologic Research, Oak Ridge Associated Universities, TN 37830-0117, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Dupree-Ellis</LastName>
+                    <ForeName>E</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Watkins</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ingle</LastName>
+                    <ForeName>J N</ForeName>
+                    <Initials>JN</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Phillips</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>200-93-2695</GrantID>
+                    <Agency>PHS</Agency>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Am J Epidemiol</MedlineTA>
+            <NlmUniqueID>7910653</NlmUniqueID>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>7440-61-1</RegistryNumber>
+                <NameOfSubstance>Uranium</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cohort Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Follow-Up Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neoplasms, Radiation-Induced</DescriptorName>
+                <QualifierName MajorTopicYN="Y">mortality</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Occupational Diseases</DescriptorName>
+                <QualifierName MajorTopicYN="N">etiology</QualifierName>
+                <QualifierName MajorTopicYN="Y">mortality</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Occupational Exposure</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Radiation Dosage</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Research Support, U.S. Gov't, P.H.S.</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Retrospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Uranium</DescriptorName>
+                <QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2000</Year>
+                <Month>7</Month>
+                <Day>20</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2000</Year>
+                <Month>8</Month>
+                <Day>12</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+
+
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+
+        <DateCreated>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>01</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-9262</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>152</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2000</Year>
+                        <Month>Jul</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of epidemiology. </Title>
+                <ISOAbbreviation>Am. J. Epidemiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Cocaine use during pregnancy and intrauterine growth retardation: new insights based on maternal hair tests.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>112-9</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Prenatal cocaine use is more accurately measured by maternal hair assay than by urine toxicology screening or self-report. To investigate the consequences of improved measurement, the authors ascertained cocaine use during pregnancy by maternal hair test, urine test, and self-report in a sample of 691 patients recruited from one New York City hospital in 1990-1992. Associations with intrauterine growth retardation, head circumference, and length of gestation were investigated. A positive hair test at delivery was not more strongly associated with birth weight (-38.1 g; 95% CI: -164, 88.3) or head circumference (-1.73 mm; 95% CI: -5.91, 2.44) than a positive urine test at delivery (-182 g (95% CI: -295, -69.8) and -6.11 mm (95% CI: -9.99, -2.24), respectively). Cocaine concentration in hair (which was higher if urine tests were positive) had a dose-response relationship with birth weight: a 27-g decrease (95% CI: -51.9, -1.04) with each log-unit increase in concentration. Birth weights were similar among infants of never users and infants of users who stopped using cocaine before delivery. Heavier use of cocaine, but not lighter use, was associated with intrauterine growth retardation, and exposure in late pregnancy was necessary to the association. Although maternal hair tests were instrumental in clarifying these relations, their clinical use is probably not warranted.</AbstractText>
+            </Abstract>
+            <Affiliation>Gertrude H. Sergievsky Center, College of Physicians and Surgeons, Columbia University, New York, NY, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Kuhn</LastName>
+                    <ForeName>L</ForeName>
+                    <Initials>L</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kline</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Ng</LastName>
+                    <ForeName>S</ForeName>
+                    <Initials>S</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Levin</LastName>
+                    <ForeName>B</ForeName>
+                    <Initials>B</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Susser</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 DA 05730</GrantID>
+                    <Acronym>DA</Acronym>
+                    <Agency>NIDA</Agency>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Am J Epidemiol</MedlineTA>
+            <NlmUniqueID>7910653</NlmUniqueID>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>50-36-2</RegistryNumber>
+                <NameOfSubstance>Cocaine</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Birth Weight</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cephalometry</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cocaine</DescriptorName>
+                <QualifierName MajorTopicYN="Y">analysis</QualifierName>
+                <QualifierName MajorTopicYN="N">urine</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cocaine-Related Disorders</DescriptorName>
+                <QualifierName MajorTopicYN="N">complications</QualifierName>
+                <QualifierName MajorTopicYN="Y">diagnosis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Fetal Growth Retardation</DescriptorName>
+                <QualifierName MajorTopicYN="Y">etiology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Gestational Age</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hair</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemistry</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pregnancy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pregnancy Complications</DescriptorName>
+                <QualifierName MajorTopicYN="Y">diagnosis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Research Support, U.S. Gov't, P.H.S.</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Substance Abuse Detection</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2000</Year>
+                <Month>7</Month>
+                <Day>26</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2000</Year>
+                <Month>8</Month>
+                <Day>6</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+
+
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+
+        <DateCreated>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>01</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2005</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-9262</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>152</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2000</Year>
+                        <Month>Jul</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of epidemiology. </Title>
+                <ISOAbbreviation>Am. J. Epidemiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Tocolytic magnesium sulfate exposure and risk of cerebral palsy among children with birth weights less than 1,750 grams.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>120-4</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The authors examined the relation between intrapartum magnesium sulfate exposure and risk of cerebral palsy in a case-control study of low birth weight children designed to control for confounding by the clinical indications for magnesium in pregnancy. Case children (n = 97) included all singleton children with cerebral palsy who were born in 1985-1989 in Atlanta, Georgia with a birth weight less than 1,750 g and whose mothers had not had a hypertension-related disease during pregnancy. Control children (n = 110) were randomly selected from the infant survivors using identical selection criteria. Data on magnesium sulfate exposure, labor and delivery, and infant characteristics were abstracted from hospital records. The authors found no association between exposure to magnesium sulfate and cerebral palsy risk (odds ratio = 0.9; 95% confidence interval: 0.3, 2.6) either in all children or in subgroups with varying likelihoods for exposure to magnesium. However, the association did vary by birth weight, with a protective effect being seen in children born weighing less than 1,500 g and an elevated risk in children with birth weights of 1,500 g or more; all confidence intervals included 1.0 except for the combined &lt;1,500 g group. Several ongoing randomized clinical trials of magnesium and cerebral palsy may shed more definitive light on this relation.</AbstractText>
+            </Abstract>
+            <Affiliation>Division of Birth Defects and Development Disabilities, National Center for Environmental Health, Centers for Disease Control and Prevention, Atlanta, GA 30341, USA. cab3@cdc.gov</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Boyle</LastName>
+                    <ForeName>C A</ForeName>
+                    <Initials>CA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yeargin-Allsopp</LastName>
+                    <ForeName>M</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Schendel</LastName>
+                    <ForeName>D E</ForeName>
+                    <Initials>DE</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Holmgreen</LastName>
+                    <ForeName>P</ForeName>
+                    <Initials>P</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Oakley</LastName>
+                    <ForeName>G P</ForeName>
+                    <Initials>GP</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Am J Epidemiol</MedlineTA>
+            <NlmUniqueID>7910653</NlmUniqueID>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Tocolytic Agents</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>7487-88-9</RegistryNumber>
+                <NameOfSubstance>Magnesium Sulfate</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Birth Weight</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Case-Control Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cerebral Palsy</DescriptorName>
+                <QualifierName MajorTopicYN="Y">chemically induced</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Infant, Low Birth Weight</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Infant, Newborn</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Magnesium Sulfate</DescriptorName>
+                <QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Obstetric Labor, Premature</DescriptorName>
+                <QualifierName MajorTopicYN="N">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Pregnancy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Risk Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Tocolytic Agents</DescriptorName>
+                <QualifierName MajorTopicYN="Y">adverse effects</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2000</Year>
+                <Month>7</Month>
+                <Day>26</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2000</Year>
+                <Month>8</Month>
+                <Day>6</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+
+
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+
+        <DateCreated>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>01</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-9262</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>152</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2000</Year>
+                        <Month>Jul</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of epidemiology. </Title>
+                <ISOAbbreviation>Am. J. Epidemiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Critical growth phases for adult shortness.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>125-31</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Previous growth studies have not explored how different growth phases-the fetal, infancy, childhood, and puberty phases-interact with each other in the development of adult shortness. In this paper, the authors attempt to describe the importance of each growth phase for adult shortness and the effect of growth in one phase on other, subsequent phases. The authors analyzed data from a longitudinal population-based growth study of 2,850 healthy, full term Swedish children born between 1973 and 1975. The height values were transformed into a centimeter score (CMS) by subtracting the raw values from the reference mean values for a particular age and sex. Subnormal growth in any growth phase, as defined by a decrease of 3 CMS or more during a growth phase, was associated with significant increased risk for final heights below 0, -6, and -12 CMS. For children with subnormal growth during one, two, and three phases, the percentages for final height below -12 CMS (a standard deviation score of approximately -2) were 0.5%, 9.4%, and 75%, respectively. Most children (57/62) with a final height below -12 CMS had subnormal growth in two or three phases. Height gains during the four growth phases were interdependent. The infancy phase was negatively associated with fetal growth (r = -0.33, p &lt; 0.01); the childhood phase was positively associated with infancy growth (r = 0.21, p &lt; 0.01); and the puberty phase was negatively associated with childhood growth (r = -0.10, p &lt; 0.01).</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Pediatrics, Queen Mary Hospital, University of Hong Kong, People's Republic of China.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Luo</LastName>
+                    <ForeName>Z C</ForeName>
+                    <Initials>ZC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Karlberg</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Am J Epidemiol</MedlineTA>
+            <NlmUniqueID>7910653</NlmUniqueID>
+        </MedlineJournalInfo>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Body Height</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Child</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Growth</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Logistic Models</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Longitudinal Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Odds Ratio</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Parents</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Research Support, Non-U.S. Gov't</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Sweden</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2000</Year>
+                <Month>7</Month>
+                <Day>26</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2000</Year>
+                <Month>8</Month>
+                <Day>6</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+
+
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+
+        <DateCreated>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>01</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-9262</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>152</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2000</Year>
+                        <Month>Jul</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of epidemiology. </Title>
+                <ISOAbbreviation>Am. J. Epidemiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Glucose intolerance and physical inactivity: the relative importance of low habitual energy expenditure and cardiorespiratory fitness.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>132-9</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>Glucose intolerance and diabetes mellitus are associated with physical inactivity, but it is unclear whether preventive interventions should aim at increasing overall energy expenditure or increasing participation in vigorous, fitness-enhancing activities. Studies aimed at separating and quantifying the effects of these two dimensions of physical activity should use well-validated measurement instruments and employ a study design in which the bivariate error structure of these instruments is determined. In the Isle of Ely Study (Cambridgeshire, United Kingdom), 775 individuals aged 45-70 years in 1994-1997 completed a glucose tolerance test and assessment of 4-day physical activity level (total energy expenditure/basal metabolic rate) by heart rate monitoring, a technique that has been validated against doubly labeled water and whole-body calorimetry. Cardiorespiratory fitness (maximum oxygen uptake (VO2max) per kg)) was measured in a submaximal test. To correct for measurement error, the authors had 190 individuals repeat both tests on three occasions at 4-month intervals. Two-hour glucose level was negatively correlated with physical activity level (men: r = -0.22, p &lt; 0.001; women: r = -0.11, p &lt; 0.05) and VO2max per kg (men: r = -0.18, p &lt; 0.01; women: r = -0.19, p &lt; 0.001) and was positively correlated with age and obesity. The model incorporating bivariate adjustment for measurement error showed that energy expenditure had a major effect on glucose tolerance, but there was less of an effect for cardiorespiratory fitness. These data provide support for public health strategies aimed at increasing overall energy expenditure.</AbstractText>
+            </Abstract>
+            <Affiliation>Department of Community Medicine, Institute of Public Health, University of Cambridge, United Kingdom. njw1004@medschl.cam.ac.uk</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Wareham</LastName>
+                    <ForeName>N J</ForeName>
+                    <Initials>NJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wong</LastName>
+                    <ForeName>M Y</ForeName>
+                    <Initials>MY</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Day</LastName>
+                    <ForeName>N E</ForeName>
+                    <Initials>NE</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Am J Epidemiol</MedlineTA>
+            <NlmUniqueID>7910653</NlmUniqueID>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Blood Glucose</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Blood Glucose</DescriptorName>
+                <QualifierName MajorTopicYN="N">analysis</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Energy Metabolism</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Exercise</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Glucose Intolerance</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Heart Rate</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Oxygen Consumption</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Physical Fitness</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Research Support, Non-U.S. Gov't</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2000</Year>
+                <Month>7</Month>
+                <Day>26</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2000</Year>
+                <Month>8</Month>
+                <Day>6</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+
+
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+
+        <DateCreated>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>01</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-9262</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>152</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2000</Year>
+                        <Month>Jul</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of epidemiology. </Title>
+                <ISOAbbreviation>Am. J. Epidemiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Total homocysteine and estrogen status indicators in the Third National Health and Nutrition Examination Survey.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>140-8</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>The possibility that estrogen status modulates total homocysteine concentration, a risk factor for vascular occlusion, was examined in a representative sample of the US population, the Third National Health and Nutrition Examination Survey (phase 2), 1991-1994. The geometric mean serum total homocysteine concentration was compared among population subgroups differing on inferred estrogen status, after adjusting for potential confounding by age, race-ethnicity, smoking, and the serum concentration of creatinine, folate, and vitamin B-12. Premenopausal women aged 17-54 years had a lower mean serum total homocysteine concentration (8.1 micromol/liter, 95% confidence interval (CI): 7.9, 8.2) than men in the same age range (8.9 micromol/liter, 95% CI: 8.6, 9.3). In the age range 17-44 years, pregnant women (6.0 micromol/liter, 95% CI: 5.4, 6.8), but not oral contraceptive users (7.9 micromol/liter, 95% CI: 7.6, 8.2), had a lower mean serum total homocysteine concentration than nonpregnant, non-oral-contraceptive-using women (8.1 micromol/liter, 95% CI: 7.9, 8.2). The mean serum total homocysteine concentration of estrogen-using women aged &gt; or = 55 years (9.5 micromol/liter, 95% CI: 8.9, 10.1) was significantly decreased relative to nonestrogen users (10.7 micromol/liter, 95% CI: 10.3, 11.1) and men (10.4 micromol/liter, 95% CI: 9.8, 11.0) in the same age range. These findings suggest that higher estrogen status is associated with a decreased mean serum total homocysteine concentration, independent of nutritional status and muscle mass, and that estrogen may explain the previously reported male-female difference in total homocysteine concentration.</AbstractText>
+            </Abstract>
+            <Affiliation>Jean Mayer US Department of Agriculture Human Nutrition Research Center on Aging, Tufts University, Boston, MA 02111, USA. morris@hnrc.tufts.edu</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Morris</LastName>
+                    <ForeName>M S</ForeName>
+                    <Initials>MS</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jacques</LastName>
+                    <ForeName>P F</ForeName>
+                    <Initials>PF</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Selhub</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rosenberg</LastName>
+                    <ForeName>I H</ForeName>
+                    <Initials>IH</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 HL52630</GrantID>
+                    <Acronym>HL</Acronym>
+                    <Agency>NHLBI</Agency>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Am J Epidemiol</MedlineTA>
+            <NlmUniqueID>7910653</NlmUniqueID>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Contraceptives, Oral, Hormonal</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Estrogens</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>454-28-4</RegistryNumber>
+                <NameOfSubstance>Homocysteine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>59-30-3</RegistryNumber>
+                <NameOfSubstance>Folic Acid</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>60-27-5</RegistryNumber>
+                <NameOfSubstance>Creatinine</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>68-19-9</RegistryNumber>
+                <NameOfSubstance>Vitamin B 12</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adolescent</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Adult</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aging</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Contraceptives, Oral, Hormonal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Creatinine</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Estrogens</DescriptorName>
+                <QualifierName MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Folic Acid</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Health Surveys</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Homocysteine</DescriptorName>
+                <QualifierName MajorTopicYN="Y">blood</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Hormone Replacement Therapy</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Research Support, U.S. Gov't, Non-P.H.S.</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Research Support, U.S. Gov't, P.H.S.</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">United States</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Vitamin B 12</DescriptorName>
+                <QualifierName MajorTopicYN="N">blood</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2000</Year>
+                <Month>7</Month>
+                <Day>26</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2000</Year>
+                <Month>8</Month>
+                <Day>6</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+
+
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="MEDLINE">
+
+        <DateCreated>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>01</Day>
+        </DateCreated>
+        <DateCompleted>
+            <Year>2000</Year>
+            <Month>08</Month>
+            <Day>01</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2004</Year>
+            <Month>11</Month>
+            <Day>17</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Print">0002-9262</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>152</Volume>
+                    <Issue>2</Issue>
+                    <PubDate>
+                        <Year>2000</Year>
+                        <Month>Jul</Month>
+                        <Day>15</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>American journal of epidemiology. </Title>
+                <ISOAbbreviation>Am. J. Epidemiol.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Multivitamin use and mortality in a large prospective study.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>149-62</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>To determine the relation between multivitamin use and death from heart disease, cerebrovascular disease, and cancer, the authors examined a prospective cohort of 1,063,023 adult Americans in 1982-1989 and compared the mortality of users of multivitamins alone; vitamin A, C, or E alone; and multivitamin and vitamin A, C, or E in combination with that of vitamin nonusers by using multivariate Cox proportional hazard models. Multivitamin users had heart disease and cerebrovascular disease mortality risks similar to those of nonusers, whereas combination users had mortality risks that were 15% lower than those of nonusers. Multivitamin and combination use had minimal effect on cancer mortality overall, although mortality from all cancers combined was increased among male current smokers who used multivitamins alone (relative risk (RR) = 1.13, 95% confidence interval (CI): 1.05, 1.23) or in combination with vitamin A, C, or E (RR = 1.16, 95% CI: 1.06, 1.26), but decreased in male combination users who had never (RR = 0.86, 95% CI: 0.74, 0.99) or had formerly (RR = 0.90, 95% CI: 0.82, 0.98) smoked. No such associations were seen in women. These observational data provide limited support for the hypothesis that multivitamin use in combination with vitamin A, C, or E may reduce heart disease and cardiovascular disease mortality, but add to concerns raised by randomized studies that some vitamin supplements may adversely affect male smokers.</AbstractText>
+            </Abstract>
+            <Affiliation>Centers for Disease Control and Prevention, National Center for Environmental Health, Division of Birth Defects, Child Development, Disability and Health, Birth Defects and Pediatric Genetics Branch, Atlanta, GA 30341-3717, USA.</Affiliation>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Watkins</LastName>
+                    <ForeName>M L</ForeName>
+                    <Initials>ML</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Erickson</LastName>
+                    <ForeName>J D</ForeName>
+                    <Initials>JD</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Thun</LastName>
+                    <ForeName>M J</ForeName>
+                    <Initials>MJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mulinare</LastName>
+                    <ForeName>J</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Heath</LastName>
+                    <ForeName>C W</ForeName>
+                    <Initials>CW</Initials>
+                    <Suffix>Jr</Suffix>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <PublicationTypeList>
+                <PublicationType>Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>UNITED STATES</Country>
+            <MedlineTA>Am J Epidemiol</MedlineTA>
+            <NlmUniqueID>7910653</NlmUniqueID>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance>Vitamins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>11103-57-4</RegistryNumber>
+                <NameOfSubstance>Vitamin A</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>1406-18-4</RegistryNumber>
+                <NameOfSubstance>Vitamin E</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>50-81-7</RegistryNumber>
+                <NameOfSubstance>Ascorbic Acid</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Ascorbic Acid</DescriptorName>
+                <QualifierName MajorTopicYN="N">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Cerebrovascular Accident</DescriptorName>
+                <QualifierName MajorTopicYN="N">mortality</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Coronary Disease</DescriptorName>
+                <QualifierName MajorTopicYN="N">mortality</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Female</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Male</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Middle Aged</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="Y">Mortality</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Neoplasms</DescriptorName>
+                <QualifierName MajorTopicYN="N">mortality</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Proportional Hazards Models</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Prospective Studies</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Risk Factors</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Smoking</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Vitamin A</DescriptorName>
+                <QualifierName MajorTopicYN="N">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Vitamin E</DescriptorName>
+                <QualifierName MajorTopicYN="N">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName MajorTopicYN="N">Vitamins</DescriptorName>
+                <QualifierName MajorTopicYN="Y">administration &amp; dosage</QualifierName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2000</Year>
+                <Month>7</Month>
+                <Day>26</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2000</Year>
+                <Month>8</Month>
+                <Day>6</Day>
+                <Hour>11</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+
+
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+</PubmedArticleSet>
